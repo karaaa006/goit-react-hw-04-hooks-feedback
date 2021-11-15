@@ -1,5 +1,5 @@
 {
-  "name": "goit-hw-create-react-app-template",
+  "name": "goit-react-hw-04-hooks-feedback",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "http://karaaa006.github.io/goit-hw-create-react-app-template",
+  "homepage": "http://karaaa006.github.io/goit-react-hw-04-hooks-feedback",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
